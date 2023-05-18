@@ -1,9 +1,0 @@
-CAPTURAS R
-del 1 al 12
-
-CAPTURAS RSTUDIO
-del 13 al 20
-
-CAPTURAS RTOOLS
-del 21 al 27
-
